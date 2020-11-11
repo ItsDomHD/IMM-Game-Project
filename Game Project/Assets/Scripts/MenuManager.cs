@@ -1,0 +1,47 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+
+namespace DefaultNamespace
+{
+    public class MenuManager : MonoBehaviour
+    {
+        public Button Start;
+        public Button Showcase;
+        public Button Settings;
+        public Button Source;
+        public Button About;
+        public Button Exit;
+
+        public void MMStart()
+        {
+        }
+
+        public void MMShowcase()
+        {
+        }
+
+        public void MMSettings()
+        {
+        }
+
+        public void MMSource()
+        {
+        }
+
+        public void MMAbout()
+        {
+            SceneManager.LoadScene("Scenes/About");
+        }
+
+        public void MMQuit()
+        {
+            Application.Quit();
+        }
+
+        public void MMBack()
+        {
+            SceneManager.LoadScene("Scenes/Main Menu");
+        }
+    }
+}
