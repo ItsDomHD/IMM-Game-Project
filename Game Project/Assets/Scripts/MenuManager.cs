@@ -27,11 +27,12 @@ namespace DefaultNamespace
 
         public void MMSource()
         {
+            Application.OpenURL("https://github.com/ItsDomHD/IMM-Game-Project");
         }
 
         public void MMAbout()
         {
-            SceneManager.LoadScene("Scenes/About");
+            SceneManager.LoadScene("Scenes/Main Menu/Main Menu - About");
         }
 
         public void MMQuit()
@@ -41,7 +42,7 @@ namespace DefaultNamespace
 
         public void MMBack()
         {
-            SceneManager.LoadScene("Scenes/Main Menu");
+            SceneManager.LoadScene("Main Menu");
         }
     }
 }
