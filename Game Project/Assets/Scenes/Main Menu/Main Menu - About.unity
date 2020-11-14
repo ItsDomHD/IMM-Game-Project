@@ -186,55 +186,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &142908401
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 142908403}
-  - component: {fileID: 142908402}
-  m_Layer: 0
-  m_Name: Menu Manager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &142908402
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 142908401}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6612c89512afcb44a8b25f7d8c24bccb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Start: {fileID: 1777054038}
-  Showcase: {fileID: 1777054038}
-  Settings: {fileID: 1777054038}
-  Source: {fileID: 1777054038}
-  About: {fileID: 1777054038}
-  Exit: {fileID: 1777054038}
---- !u!4 &142908403
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 142908401}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 448.44254, y: 171.52682, z: -164.23273}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &460699764
 GameObject:
   m_ObjectHideFlags: 0
@@ -247,6 +198,7 @@ GameObject:
   - component: {fileID: 460699768}
   - component: {fileID: 460699767}
   - component: {fileID: 460699766}
+  - component: {fileID: 460699769}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -337,6 +289,24 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &460699769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 460699764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6612c89512afcb44a8b25f7d8c24bccb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Start: {fileID: 1777054038}
+  Showcase: {fileID: 1777054038}
+  Settings: {fileID: 1777054038}
+  Source: {fileID: 1777054038}
+  About: {fileID: 1777054038}
+  Exit: {fileID: 1777054038}
 --- !u!1 &695960868
 GameObject:
   m_ObjectHideFlags: 0
@@ -1081,7 +1051,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 142908402}
+      - m_Target: {fileID: 460699769}
         m_MethodName: MMBack
         m_Mode: 1
         m_Arguments:

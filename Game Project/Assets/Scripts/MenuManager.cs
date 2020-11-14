@@ -23,6 +23,7 @@ namespace DefaultNamespace
 
         public void MMSettings()
         {
+            SceneManager.LoadScene("Main Menu - Settings");
         }
 
         public void MMSource()
