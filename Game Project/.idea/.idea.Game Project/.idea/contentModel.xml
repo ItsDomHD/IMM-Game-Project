@@ -6,6 +6,13 @@
     <e p="C:\Users\Dominic\Desktop\Modding\Scriptng\Projects\IMM-Game-Project\Game Project" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Scenes" t="Include">
+          <e p="Start" t="Include">
+            <e p="HQ Shooting Range" t="Include">
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="MenuManager.cs" t="Include" />
           <e p="SettingsMenu.cs" t="Include" />

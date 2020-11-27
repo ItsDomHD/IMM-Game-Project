@@ -20,17 +20,210 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37c74bef-8de2-47c4-979c-e98bfe6e2b4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/MainMixer.mixer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/MainMixer.mixer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Ceiling_1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Ceiling_1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Ceiling_2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Ceiling_2.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Cupboard door left.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Cupboard door left.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Cupboard door right.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Cupboard door right.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Cupboard.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Cupboard.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Door Frame.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Door Frame.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Door.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Door.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Gun Desk.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Gun Desk.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Ceiling 2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Ceiling 2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Ceiling.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Ceiling.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Chrome.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Chrome.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Concrete Floor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Concrete Floor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Cupboard.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Cupboard.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Digits.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Digits.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Floor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Floor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Glass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Glass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Grid.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Grid.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Light.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Light.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Painted Metal Black_.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Painted Metal Black_.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Painted Metal Grey.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Painted Metal Grey.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Painted Metal White.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Painted Metal White.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Plastic Black.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Plastic Black.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Rubber.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Rubber.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Steel.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Steel.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Target Paper.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Target Paper.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Target.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Target.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Walls.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Walls.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Window Glass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Window Glass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Window.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Window.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Wood.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Materials/Wood.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Metall Partition.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Metall Partition.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 2.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 3.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 3.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 4.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 4.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 5.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 5.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 6.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Rails 6.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Room.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Room.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Table.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Table.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 2.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 3.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 3.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 4.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 4.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 5.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 5.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 6.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Target 6.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Tumblr.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Tumblr.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Tumblr_2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Meshes/Tumblr_2.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/OverviewMap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/OverviewMap.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/OverviewMap.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/OverviewMap/LightingData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/OverviewMap/LightingData.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/OverviewMap/ReflectionProbe-0.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/OverviewMap/ReflectionProbe-0.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Post Processing Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Post Processing Profile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Cupboard.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Cupboard.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Door.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Door.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Gun Desk.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Gun Desk.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Metall Partition.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Metall Partition.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 4.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 4.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 5.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 5.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Rails 6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Shooting Range.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Shooting Range.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Table.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Table.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 4.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 4.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 5.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 5.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Target 6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Tumblr.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Tumblr.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Tumblr_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Prefabs/Tumblr_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/ReadMe.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/LightingData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/LightingData.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/Lightmap-0_comp_dir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/Lightmap-0_comp_dir.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/Lightmap-0_comp_light.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/Lightmap-0_comp_light.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/Lightmap-1_comp_dir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/Lightmap-1_comp_dir.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/Lightmap-1_comp_light.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/Lightmap-1_comp_light.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/ReflectionProbe-0.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/ReflectionProbe-0.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/ReflectionProbe-1.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/ReflectionProbe-1.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/ReflectionProbe-2.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/ReflectionProbe-2.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/ReflectionProbe-3.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Shooting Range/ReflectionProbe-3.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Ceiling_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Ceiling_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Glass.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Glass.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Grid_mask.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Grid_mask.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Grid_metalness.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Grid_metalness.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PaperPlain_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PaperPlain_A.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainPlaster_albedo.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainPlaster_albedo.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainPlaster_normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainPlaster_normal.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainTiles_albedo.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainTiles_albedo.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainTiles_ao.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainTiles_ao.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainTiles_height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainTiles_height.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainTiles_normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PlainTiles_normal.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PolishedConcreteFloor_albedo.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/PolishedConcreteFloor_albedo.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Target.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Target.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Wood_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/HQ Shooting Range/Textures/Wood_A.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/Start.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Start/Start.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Menu/Main Menu - About.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main Menu/Main Menu - About.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Menu/Main Menu - Settings.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main Menu/Main Menu - Settings.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Menu/Main Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main Menu/Main Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +239,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" />
       </list>
     </option>
   </component>
@@ -96,7 +289,8 @@
       <updated>1605086230065</updated>
       <workItem from="1605086235172" duration="2913000" />
       <workItem from="1605260917618" duration="775000" />
-      <workItem from="1605361815274" duration="1314000" />
+      <workItem from="1605361815274" duration="1574000" />
+      <workItem from="1606468962842" duration="767000" />
     </task>
     <servers />
   </component>

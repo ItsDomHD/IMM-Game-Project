@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 18313af2f25f1dd43a2493558ac21c64
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Bullet_Catcher_Wall_1.5m
+  - first:
+      1: 100004
+    second: Ceiling
+  - first:
+      1: 100006
+    second: Ceiling 2
+  - first:
+      1: 100008
+    second: Cupboard
+  - first:
+      1: 100010
+    second: Cupboard door left
+  - first:
+      1: 100012
+    second: Cupboard door right
+  - first:
+      1: 100014
+    second: Door
+  - first:
+      1: 100016
+    second: Door_Frame
+  - first:
+      1: 100018
+    second: Door_Frame.001
+  - first:
+      1: 100020
+    second: Floor_2
+  - first:
+      1: 100022
+    second: Floor_3x3m
+  - first:
+      1: 100024
+    second: Gun Desk
+  - first:
+      1: 100026
+    second: Metall Partition
+  - first:
+      1: 100028
+    second: Rails 1
+  - first:
+      1: 100030
+    second: Rails 2
+  - first:
+      1: 100032
+    second: Rails 3
+  - first:
+      1: 100034
+    second: Rails 4
+  - first:
+      1: 100036
+    second: Rails 5
+  - first:
+      1: 100038
+    second: Rails 6
+  - first:
+      1: 100040
+    second: Room
+  - first:
+      1: 100042
+    second: Table
+  - first:
+      1: 100044
+    second: Target 1
+  - first:
+      1: 100046
+    second: Target 2
+  - first:
+      1: 100048
+    second: Target 3
+  - first:
+      1: 100050
+    second: Target 4
+  - first:
+      1: 100052
+    second: Target 5
+  - first:
+      1: 100054
+    second: Target 6
+  - first:
+      1: 100056
+    second: Tumblr
+  - first:
+      1: 100058
+    second: Tumblr 2
+  - first:
+      1: 100060
+    second: Wall_1.5m
+  - first:
+      1: 100062
+    second: Wall_3m
+  - first:
+      1: 100064
+    second: Wall_3m_v2
+  - first:
+      1: 100066
+    second: Wall_6m
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Bullet_Catcher_Wall_1.5m
+  - first:
+      4: 400004
+    second: Ceiling
+  - first:
+      4: 400006
+    second: Ceiling 2
+  - first:
+      4: 400008
+    second: Cupboard
+  - first:
+      4: 400010
+    second: Cupboard door left
+  - first:
+      4: 400012
+    second: Cupboard door right
+  - first:
+      4: 400014
+    second: Door
+  - first:
+      4: 400016
+    second: Door_Frame
+  - first:
+      4: 400018
+    second: Door_Frame.001
+  - first:
+      4: 400020
+    second: Floor_2
+  - first:
+      4: 400022
+    second: Floor_3x3m
+  - first:
+      4: 400024
+    second: Gun Desk
+  - first:
+      4: 400026
+    second: Metall Partition
+  - first:
+      4: 400028
+    second: Rails 1
+  - first:
+      4: 400030
+    second: Rails 2
+  - first:
+      4: 400032
+    second: Rails 3
+  - first:
+      4: 400034
+    second: Rails 4
+  - first:
+      4: 400036
+    second: Rails 5
+  - first:
+      4: 400038
+    second: Rails 6
+  - first:
+      4: 400040
+    second: Room
+  - first:
+      4: 400042
+    second: Table
+  - first:
+      4: 400044
+    second: Target 1
+  - first:
+      4: 400046
+    second: Target 2
+  - first:
+      4: 400048
+    second: Target 3
+  - first:
+      4: 400050
+    second: Target 4
+  - first:
+      4: 400052
+    second: Target 5
+  - first:
+      4: 400054
+    second: Target 6
+  - first:
+      4: 400056
+    second: Tumblr
+  - first:
+      4: 400058
+    second: Tumblr 2
+  - first:
+      4: 400060
+    second: Wall_1.5m
+  - first:
+      4: 400062
+    second: Wall_3m
+  - first:
+      4: 400064
+    second: Wall_3m_v2
+  - first:
+      4: 400066
+    second: Wall_6m
+  - first:
+      21: 2100000
+    second: Ceiling
+  - first:
+      21: 2100002
+    second: Light
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: Bullet_Catcher_Wall_1.5m
+  - first:
+      23: 2300004
+    second: Ceiling
+  - first:
+      23: 2300006
+    second: Ceiling 2
+  - first:
+      23: 2300008
+    second: Cupboard
+  - first:
+      23: 2300010
+    second: Cupboard door left
+  - first:
+      23: 2300012
+    second: Cupboard door right
+  - first:
+      23: 2300014
+    second: Door
+  - first:
+      23: 2300016
+    second: Door_Frame
+  - first:
+      23: 2300018
+    second: Door_Frame.001
+  - first:
+      23: 2300020
+    second: Floor_2
+  - first:
+      23: 2300022
+    second: Floor_3x3m
+  - first:
+      23: 2300024
+    second: Gun Desk
+  - first:
+      23: 2300026
+    second: Metall Partition
+  - first:
+      23: 2300028
+    second: Rails 1
+  - first:
+      23: 2300030
+    second: Rails 2
+  - first:
+      23: 2300032
+    second: Rails 3
+  - first:
+      23: 2300034
+    second: Rails 4
+  - first:
+      23: 2300036
+    second: Rails 5
+  - first:
+      23: 2300038
+    second: Rails 6
+  - first:
+      23: 2300040
+    second: Room
+  - first:
+      23: 2300042
+    second: Table
+  - first:
+      23: 2300044
+    second: Target 1
+  - first:
+      23: 2300046
+    second: Target 2
+  - first:
+      23: 2300048
+    second: Target 3
+  - first:
+      23: 2300050
+    second: Target 4
+  - first:
+      23: 2300052
+    second: Target 5
+  - first:
+      23: 2300054
+    second: Target 6
+  - first:
+      23: 2300056
+    second: Tumblr
+  - first:
+      23: 2300058
+    second: Tumblr 2
+  - first:
+      23: 2300060
+    second: Wall_1.5m
+  - first:
+      23: 2300062
+    second: Wall_3m
+  - first:
+      23: 2300064
+    second: Wall_3m_v2
+  - first:
+      23: 2300066
+    second: Wall_6m
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: Bullet_Catcher_Wall_1.5m
+  - first:
+      33: 3300004
+    second: Ceiling
+  - first:
+      33: 3300006
+    second: Ceiling 2
+  - first:
+      33: 3300008
+    second: Cupboard
+  - first:
+      33: 3300010
+    second: Cupboard door left
+  - first:
+      33: 3300012
+    second: Cupboard door right
+  - first:
+      33: 3300014
+    second: Door
+  - first:
+      33: 3300016
+    second: Door_Frame
+  - first:
+      33: 3300018
+    second: Door_Frame.001
+  - first:
+      33: 3300020
+    second: Floor_2
+  - first:
+      33: 3300022
+    second: Floor_3x3m
+  - first:
+      33: 3300024
+    second: Gun Desk
+  - first:
+      33: 3300026
+    second: Metall Partition
+  - first:
+      33: 3300028
+    second: Rails 1
+  - first:
+      33: 3300030
+    second: Rails 2
+  - first:
+      33: 3300032
+    second: Rails 3
+  - first:
+      33: 3300034
+    second: Rails 4
+  - first:
+      33: 3300036
+    second: Rails 5
+  - first:
+      33: 3300038
+    second: Rails 6
+  - first:
+      33: 3300040
+    second: Room
+  - first:
+      33: 3300042
+    second: Table
+  - first:
+      33: 3300044
+    second: Target 1
+  - first:
+      33: 3300046
+    second: Target 2
+  - first:
+      33: 3300048
+    second: Target 3
+  - first:
+      33: 3300050
+    second: Target 4
+  - first:
+      33: 3300052
+    second: Target 5
+  - first:
+      33: 3300054
+    second: Target 6
+  - first:
+      33: 3300056
+    second: Tumblr
+  - first:
+      33: 3300058
+    second: Tumblr 2
+  - first:
+      33: 3300060
+    second: Wall_1.5m
+  - first:
+      33: 3300062
+    second: Wall_3m
+  - first:
+      33: 3300064
+    second: Wall_3m_v2
+  - first:
+      33: 3300066
+    second: Wall_6m
+  - first:
+      43: 4300000
+    second: Ceiling 2
+  - first:
+      43: 4300002
+    second: Door_Frame.001
+  - first:
+      43: 4300004
+    second: Door_Frame
+  - first:
+      43: 4300006
+    second: Room
+  - first:
+      43: 4300008
+    second: Wall_6m
+  - first:
+      43: 4300010
+    second: Bullet_Catcher_Wall_1.5m
+  - first:
+      43: 4300012
+    second: Wall_1.5m
+  - first:
+      43: 4300014
+    second: Wall_3m
+  - first:
+      43: 4300016
+    second: Wall_3m_v2
+  - first:
+      43: 4300018
+    second: Floor_2
+  - first:
+      43: 4300020
+    second: Floor_3x3m
+  - first:
+      43: 4300022
+    second: Tumblr 2
+  - first:
+      43: 4300024
+    second: Tumblr
+  - first:
+      43: 4300026
+    second: Table
+  - first:
+      43: 4300028
+    second: Cupboard door right
+  - first:
+      43: 4300030
+    second: Cupboard door left
+  - first:
+      43: 4300032
+    second: Rails 1
+  - first:
+      43: 4300034
+    second: Rails 2
+  - first:
+      43: 4300036
+    second: Rails 3
+  - first:
+      43: 4300038
+    second: Rails 4
+  - first:
+      43: 4300040
+    second: Rails 5
+  - first:
+      43: 4300042
+    second: Target 1
+  - first:
+      43: 4300044
+    second: Target 2
+  - first:
+      43: 4300046
+    second: Target 3
+  - first:
+      43: 4300048
+    second: Target 4
+  - first:
+      43: 4300050
+    second: Target 5
+  - first:
+      43: 4300052
+    second: Target 6
+  - first:
+      43: 4300054
+    second: Rails 6
+  - first:
+      43: 4300056
+    second: Gun Desk
+  - first:
+      43: 4300058
+    second: Door
+  - first:
+      43: 4300060
+    second: Cupboard
+  - first:
+      43: 4300062
+    second: Ceiling
+  - first:
+      43: 4300064
+    second: Metall Partition
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling
+    second: {fileID: 2100000, guid: 6f90b3ee9d88b9540b494bf97566781c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 79f3a37b3b84f424c919e3d4a2ec94d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete Floor
+    second: {fileID: 2100000, guid: 523e0c3a6b568154b95e6e11b3837ac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard
+    second: {fileID: 2100000, guid: c3601fbce694f05439216800e6946281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: eced438d688878a4f8a4dafae5ecb93e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: f27d6f3e9002b844a824c1c3535e4f13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grid
+    second: {fileID: 2100000, guid: 5291d359612cfaf4e9e434a37370adf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 4b02861ec8a5fd747905c7db1be8e699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painted Metal Black_
+    second: {fileID: 2100000, guid: c3cf82160fa8e7446b004e06b3005790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painted Metal Grey
+    second: {fileID: 2100000, guid: e06cddc1a777d2248874d2b7ce38a6f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painted Metal White
+    second: {fileID: 2100000, guid: cb1457d8919ad5e489ce207c2df52efb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic Black
+    second: {fileID: 2100000, guid: 2bd956c5c9f5b75418ec9bee2ad0eb82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber
+    second: {fileID: 2100000, guid: a7676e3766f8b934c9de68f6b192f35b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: e8d2e9f3d31fd524788b1e0836cea391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Target
+    second: {fileID: 2100000, guid: 4a965f2e17adeca4582cfb47f9ad4854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Target Paper
+    second: {fileID: 2100000, guid: 2bb78499f3308154d8ed5ad3b575db4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: 380af4ada18e0d84dae5b5d292127c68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: 28ab788bd4195464fb06969b60a970cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window Glass
+    second: {fileID: 2100000, guid: 0d808dd24adb66b4ba5a25c9383afedd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: c04a76bbdcffb7c4f9ed9991fcf81bdb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
