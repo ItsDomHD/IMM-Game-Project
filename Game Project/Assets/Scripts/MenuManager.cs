@@ -15,6 +15,7 @@ namespace DefaultNamespace
 
         public void MMStart()
         {
+            SceneManager.LoadScene("Scenes/Start/Shooting Range");
         }
 
         public void MMShowcase()
@@ -23,7 +24,7 @@ namespace DefaultNamespace
 
         public void MMSettings()
         {
-            SceneManager.LoadScene("Main Menu - Settings");
+            SceneManager.LoadScene("Scenes/Main Menu/Main Menu - Settings");
         }
 
         public void MMSource()
@@ -43,7 +44,7 @@ namespace DefaultNamespace
 
         public void MMBack()
         {
-            SceneManager.LoadScene("Main Menu");
+            SceneManager.LoadScene("Scenes/Main Menu/Main Menu");
         }
     }
 }

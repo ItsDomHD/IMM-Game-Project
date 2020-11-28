@@ -6,9 +6,9 @@ namespace DefaultNamespace
     public class SettingsMenu : MonoBehaviour
 
     {
-        private float currentVolume;
-        
         public AudioMixer audioMixer;
+        private float currentVolume;
+
         public void SetVolume(float volume)
         {
             audioMixer.SetFloat("volume", volume);
