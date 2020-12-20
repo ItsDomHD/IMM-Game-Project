@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Start/Shooting Range.unity
     guid: 15a2bd2161018674b83ad33ae483c257
+  - enabled: 1
+    path: Assets/Scenes/Showcase/Showcase.unity
+    guid: 32f40adb2de2db149928d954ca2e82c0
+  - enabled: 1
+    path: Assets/Scenes/Showcase/Showcase - AK47.unity
+    guid: d71372325e2ae6f4b8f6e69235228362
+  - enabled: 1
+    path: Assets/Scenes/Showcase/Showcase - Pistol.unity
+    guid: 492d841c9ee92ee4fa1ac8decee47bf8
   m_configObjects: {}

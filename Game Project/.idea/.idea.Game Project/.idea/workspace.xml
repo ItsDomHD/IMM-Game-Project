@@ -20,400 +20,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37c74bef-8de2-47c4-979c-e98bfe6e2b4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.IMM-Game-Project.dir/.idea/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample).meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Assault_Rifle_01.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Assault_Rifle_01/assault_rifle_01.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Assault_Rifle_01/assault_rifle_01.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Handgun_01.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Handgun_01/handgun_01.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Handgun_01/handgun_01.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Handgun_01/handgun_01_slider.mask" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Handgun_01/handgun_01_slider.mask.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Aiming.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Aiming/aim_in.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Aiming/aim_in.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells/casing-sound-1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells/casing-sound-1.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells/casing-sound-2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells/casing-sound-2.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells/casing-sound-3.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells/casing-sound-3.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells/casing-sound-4.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells/casing-sound-4.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells/casing-sound-5.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Casings_&amp;_Shells/casing-sound-5.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-1.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-2.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-3.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-3.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-4.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-4.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-5.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-5.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-6.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Explosions/explosion-6.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Grenade_Throw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Grenade_Throw/grenade-throw-2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Grenade_Throw/grenade-throw-2.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Grenade_Throw/grenade-throw.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Grenade_Throw/grenade-throw.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads/Assault_Rifle_01_Reloads.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads/Assault_Rifle_01_Reloads/assault_rifle_01_reload_ammo_left.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads/Assault_Rifle_01_Reloads/assault_rifle_01_reload_ammo_left.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads/Assault_Rifle_01_Reloads/assault_rifle_01_reload_out_of_ammo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads/Assault_Rifle_01_Reloads/assault_rifle_01_reload_out_of_ammo.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads/Handgun_01-04_Reloads.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads/Handgun_01-04_Reloads/handgun_01-04_reload_ammo_left.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads/Handgun_01-04_Reloads/handgun_01-04_reload_ammo_left.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads/Handgun_01-04_Reloads/handgun_01-04_reload_out_of_ammo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Gun_Reloads/Handgun_01-04_Reloads/handgun_01-04_reload_out_of_ammo.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts/impact-1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts/impact-1.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts/impact-2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts/impact-2.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts/impact-3.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts/impact-3.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts/impact-4.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts/impact-4.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts/thud.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Impacts/thud.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Misc.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Misc/holster_weapon.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Misc/holster_weapon.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Misc/take_out_weapon.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Misc/take_out_weapon.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Misc/target-go-down.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Misc/target-go-down.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Misc/target-go-up.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Misc/target-go-up.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Movement.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Movement/running_loop.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Movement/running_loop.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Movement/walking_loop.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Movement/walking_loop.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Shoot.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Shoot/shoot.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Shoot/shoot.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Animations.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Animations/target_down.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Animations/target_down.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Animations/target_up.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Animations/target_up.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Demo Scene Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Demo Scene Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Prototype_Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Prototype_Materials/1x1_Grid_Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Prototype_Materials/1x1_Grid_Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Prototype_Materials/4x4_Grid_Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Prototype_Materials/4x4_Grid_Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Prototype_Materials/6x6_Grid_Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Prototype_Materials/6x6_Grid_Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Weapon_Showcase_Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Weapon_Showcase_Materials/Weapon_Showcase_Ground_Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Materials/Weapon_Showcase_Materials/Weapon_Showcase_Ground_Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Meshes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Meshes/explosive_barrel.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Meshes/explosive_barrel.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Meshes/explosive_barrel_destructible.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Meshes/explosive_barrel_destructible.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Meshes/target.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Meshes/target.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/DebrisScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/DebrisScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/ExplosiveBarrelScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/ExplosiveBarrelScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/TargetScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/TargetScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Textures_&amp;_Sprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Textures_&amp;_Sprites/Demo Scene Texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Textures_&amp;_Sprites/Demo Scene Texture.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Textures_&amp;_Sprites/Prototype_Textures.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Textures_&amp;_Sprites/Prototype_Textures/Prototype_Texture 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Textures_&amp;_Sprites/Prototype_Textures/Prototype_Texture 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Textures_&amp;_Sprites/Weapon_Showcase_Textures.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Textures_&amp;_Sprites/Weapon_Showcase_Textures/Weapon_Showcase_Shadow_Texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Textures_&amp;_Sprites/Weapon_Showcase_Textures/Weapon_Showcase_Shadow_Texture.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Arm_Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Arm_Materials/Arms Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Arm_Materials/Arms Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Impact_Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Impact_Materials/Metal_Bullet_Hole_Particle.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Impact_Materials/Metal_Bullet_Hole_Particle.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Materials/BulletGlowMaterial.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Materials/BulletGlowMaterial.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Materials/Bullet_Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Materials/Bullet_Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Guns Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Guns Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Burn_Mark_Particle.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Burn_Mark_Particle.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Ember_Particle.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Ember_Particle.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Flame_Particle.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Flame_Particle.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Metal_Bullet_Hole_Particle.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Metal_Bullet_Hole_Particle.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/MuzzleFlash.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/MuzzleFlash.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Shockwave Particle Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Shockwave Particle Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Smoke_Particle.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Smoke_Particle.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Smoke_SpriteSheet.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Smoke_SpriteSheet.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/SparkParticles.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/SparkParticles.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Physics_Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Physics_Materials/Grenade Physics.physicMaterial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Physics_Materials/Grenade Physics.physicMaterial.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Assault_Rifle_01.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Assault_Rifle_01/arms_assault_rifle_01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Assault_Rifle_01/arms_assault_rifle_01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Handgun_01.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Handgun_01/arms_handgun_01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Handgun_01/arms_handgun_01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Materials/Arms Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Materials/Arms Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullet_Prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullet_Prefab/ico_mesh.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullet_Prefab/ico_mesh.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/big_bullet.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/big_bullet.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/big_bullet_casing.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/big_bullet_casing.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/small_bullet.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/small_bullet.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/small_bullet_casing.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/small_bullet_casing.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Grenades.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Grenades/hand_grenade.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Grenades/hand_grenade.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Assault_Rifle_01.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Assault_Rifle_01/assault_rifle_01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Assault_Rifle_01/assault_rifle_01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Handgun_01.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Handgun_01/handgun_01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Handgun_01/handgun_01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Assault_Rifle_01_Mags.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Assault_Rifle_01_Mags/assault_rifle_01_mag_empty.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Assault_Rifle_01_Mags/assault_rifle_01_mag_empty.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Assault_Rifle_01_Mags/assault_rifle_01_mag_full.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Assault_Rifle_01_Mags/assault_rifle_01_mag_full.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Handgun_01_Mags.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Handgun_01_Mags/handgun_01_mag_empty.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Handgun_01_Mags/handgun_01_mag_empty.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Handgun_01_Mags/handgun_01_mag_full.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Handgun_01_Mags/handgun_01_mag_full.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Tactical_Knife.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Tactical_Knife/tactical_knife.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Tactical_Knife/tactical_knife.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Bullet.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Bullet/BulletScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Bullet/BulletScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/CasingScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/CasingScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/GrenadeScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/GrenadeScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts/ExplosionScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts/ExplosionScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts/ImpactScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts/ImpactScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/FPSController.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/FPSController/FpsControllerLPFP.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/FPSController/FpsControllerLPFP.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Misc.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Misc/LookAtCamera.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Misc/LookAtCamera.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/AutomaticGunScriptLPFP.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/AutomaticGunScriptLPFP.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/HandgunScriptLPFP.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/HandgunScriptLPFP.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Low Poly FPS Pack Texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Low Poly FPS Pack Texture.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Burn_Mark_Particle_Texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Burn_Mark_Particle_Texture.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Ember_Particle_Texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Ember_Particle_Texture.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Flame_Particle_Texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Flame_Particle_Texture.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Metal_Bullet_Hole_Particle_Texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Metal_Bullet_Hole_Particle_Texture.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Shockwave Particle Texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Shockwave Particle Texture.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Particle_Spritesheet2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Particle_Spritesheet2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Particle_Texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Particle_Texture.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Sprite_Texture_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Sprite_Texture_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/SparksParticleTexture2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/SparksParticleTexture2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/bullet_glow_texture_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/bullet_glow_texture_bg.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/Grenade_UI_Texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/Grenade_UI_Texture.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/assault_rifle_01_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/assault_rifle_01_icon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/handgun_01_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/handgun_01_icon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Prefabs/Explosive Barrel (Destroyed).prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Prefabs/Explosive Barrel (Destroyed).prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Prefabs/Explosive Barrel.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Prefabs/Explosive Barrel.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Prefabs/Target.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Prefabs/Target.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Assault_Rifle_01_Demo.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Assault_Rifle_01_Demo/Assault_Rifle_01_Demo.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Assault_Rifle_01_Demo/Assault_Rifle_01_Demo.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Assault_Rifle_01_Demo/Assault_Rifle_01_Model_Showcase.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Assault_Rifle_01_Demo/Assault_Rifle_01_Model_Showcase/Assault_Rifle_01_Model_Showcase.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Assault_Rifle_01_Demo/Assault_Rifle_01_Model_Showcase/Assault_Rifle_01_Model_Showcase.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Handgun_01_Demo.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Handgun_01_Demo/Handgun_01_Demo.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Handgun_01_Demo/Handgun_01_Demo.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Handgun_01_Demo/Handgun_01_Model_Showcase.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Handgun_01_Demo/Handgun_01_Model_Showcase/Handgun_01_Model_Showcase.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Handgun_01_Demo/Handgun_01_Model_Showcase/Handgun_01_Model_Showcase.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/How To Use - Low Poly FPS Pack - Free (Sample).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/How To Use - Low Poly FPS Pack - Free (Sample).pdf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Low Poly FPS Pack - Free (Sample) Documentation.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Low Poly FPS Pack - Free (Sample) Documentation.pdf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Assault_Rifle_01_Example_Prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Assault_Rifle_01_Example_Prefab/Assault_Rifle_01_FPSController.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Assault_Rifle_01_Example_Prefab/Assault_Rifle_01_FPSController.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Handgun_01_Example_Prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Handgun_01_Example_Prefab/Handgun_01_FPSController.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Handgun_01_Example_Prefab/Handgun_01_FPSController.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Bullet_Impacts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Bullet_Impacts/Metal Impact Prefab.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Bullet_Impacts/Metal Impact Prefab.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Casing_Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Casing_Prefabs/Big_Casing_Prefab.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Casing_Prefabs/Big_Casing_Prefab.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Casing_Prefabs/Small_Casing_Prefab.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Casing_Prefabs/Small_Casing_Prefab.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Explosions.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Explosions/Barrel Explosion Prefab.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Explosions/Barrel Explosion Prefab.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Explosions/Explosion Prefab.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Explosions/Explosion Prefab.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Grenades.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Grenades/Hand_Grenade_Prefab.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Grenades/Hand_Grenade_Prefab.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles/Bullet.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles/Bullet/Bullet_Prefab.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles/Bullet/Bullet_Prefab.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Big_Bullet.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Big_Bullet.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Big_Bullet_Casing.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Big_Bullet_Casing.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Small_Bullet.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Small_Bullet.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Small_Bullet_Casing.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Small_Bullet_Casing.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Grenades.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Grenades/Hand_Grenade.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Grenades/Hand_Grenade.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Guns.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Guns/Assault_Rifle_01.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Guns/Assault_Rifle_01.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Guns/Handgun_01.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Guns/Handgun_01.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Assault_Rifle_01_Mag_Empty.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Assault_Rifle_01_Mag_Empty.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Assault_Rifle_01_Mag_Full.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Assault_Rifle_01_Mag_Full.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Handgun_01_Mag_Empty.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Handgun_01_Mag_Empty.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Handgun_01_Mag_Full.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Handgun_01_Mag_Full.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Tactical_Knife.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Tactical_Knife/Tactical_Knife.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Tactical_Knife/Tactical_Knife.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menus.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menus/MenuManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menus/MenuManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menus/SettingsMenu.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menus/SettingsMenu.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Footstep.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Footstep.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/MouseMovement.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/MouseMovement.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sounds.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sounds/FootstepsTile.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sounds/FootstepsTile.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Assault_Rifle_01/big_bullet.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Assault_Rifle_01/big_bullet.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BulletPrefab.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BulletPrefab.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Showcase.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Showcase/Showcase - AK47.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Showcase/Showcase - AK47.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Showcase/Showcase - Pistol.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Showcase/Showcase - Pistol.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Showcase/Showcase.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Showcase/Showcase.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menus/ShowcaseCam.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menus/ShowcaseCam.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Bullet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Bullet.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/shoot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/shoot.wav.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MainMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MainMixer.mixer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MouseMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MouseMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Shoot/shoot.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Audio/Shoot/shoot.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/big_bullet.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/big_bullet.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Grenades.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Grenades/hand_grenade.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Grenades/hand_grenade.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Bullet.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Bullet/BulletScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Bullet/BulletScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/CasingScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/CasingScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/GrenadeScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/GrenadeScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts/ExplosionScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts/ExplosionScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts/ImpactScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts/ImpactScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/FPSController.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/FPSController/FpsControllerLPFP.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/FPSController/FpsControllerLPFP.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Misc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Misc/LookAtCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Misc/LookAtCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/AutomaticGunScriptLPFP.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/AutomaticGunScriptLPFP.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/HandgunScriptLPFP.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/HandgunScriptLPFP.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles/Bullet.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles/Bullet/Bullet_Prefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles/Bullet/Bullet_Prefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Big_Bullet.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Big_Bullet.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Menu/Main Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main Menu/Main Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start/Shooting Range.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start/Shooting Range.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Menus/MenuManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Menus/MenuManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -426,6 +100,10 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/Footstep.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Bullet.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Menus/MenuManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Menus/ShowcaseCam.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1k8dbk0C6nnb4zGDlhRwHQe1Gxd" />
@@ -482,6 +160,8 @@
       <workItem from="1606557966184" duration="1136000" />
       <workItem from="1606649294190" duration="2115000" />
       <workItem from="1608391542600" duration="2489000" />
+      <workItem from="1608463586277" duration="3738000" />
+      <workItem from="1608487898718" duration="7371000" />
     </task>
     <servers />
   </component>

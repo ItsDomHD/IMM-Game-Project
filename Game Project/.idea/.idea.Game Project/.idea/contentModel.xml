@@ -21,39 +21,19 @@
                 <e p="TargetScript.cs" t="Include" />
               </e>
             </e>
-            <e p="Scripts" t="Include">
-              <e p="Bullet" t="Include">
-                <e p="BulletScript.cs" t="Include" />
-              </e>
-              <e p="Casings_&amp;_Projectiles" t="Include">
-                <e p="CasingScript.cs" t="Include" />
-                <e p="GrenadeScript.cs" t="Include" />
-              </e>
-              <e p="Explosions_&amp;_Impacts" t="Include">
-                <e p="ExplosionScript.cs" t="Include" />
-                <e p="ImpactScript.cs" t="Include" />
-              </e>
-              <e p="FPSController" t="Include">
-                <e p="FpsControllerLPFP.cs" t="Include" />
-              </e>
-              <e p="Misc" t="Include">
-                <e p="LookAtCamera.cs" t="Include" />
-              </e>
-              <e p="Weapon_Scripts" t="Include">
-                <e p="AutomaticGunScriptLPFP.cs" t="Include" />
-                <e p="HandgunScriptLPFP.cs" t="Include" />
-              </e>
-            </e>
           </e>
         </e>
         <e p="Scripts" t="Include">
           <e p="Menus" t="Include">
             <e p="MenuManager.cs" t="Include" />
             <e p="SettingsMenu.cs" t="Include" />
+            <e p="ShowcaseCam.cs" t="Include" />
           </e>
           <e p="Player" t="Include">
+            <e p="Bullet.cs" t="Include" />
             <e p="Footstep.cs" t="Include" />
             <e p="MouseMovement.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
             <e p="PlayerMovement.cs" t="Include" />
           </e>
         </e>

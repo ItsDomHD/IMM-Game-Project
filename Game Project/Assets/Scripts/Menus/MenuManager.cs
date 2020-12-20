@@ -6,13 +6,6 @@ namespace DefaultNamespace
 {
     public class MenuManager : MonoBehaviour
     {
-        public Button Start;
-        public Button Showcase;
-        public Button Settings;
-        public Button Source;
-        public Button About;
-        public Button Exit;
-
         public void MMStart()
         {
             SceneManager.LoadScene("Scenes/Start/Shooting Range");
@@ -20,6 +13,7 @@ namespace DefaultNamespace
 
         public void MMShowcase()
         {
+            SceneManager.LoadScene("Scenes/Showcase/Showcase");
         }
 
         public void MMSettings()
@@ -45,6 +39,14 @@ namespace DefaultNamespace
         public void MMBack()
         {
             SceneManager.LoadScene("Scenes/Main Menu/Main Menu");
+        }
+        public void ShowcaseGun1()
+        {
+            SceneManager.LoadScene("Scenes/Showcase/Showcase - AK47");
+        }
+        public void ShowcaseGun2()
+        {
+            SceneManager.LoadScene("Scenes/Showcase/Showcase - Pistol");
         }
     }
 }

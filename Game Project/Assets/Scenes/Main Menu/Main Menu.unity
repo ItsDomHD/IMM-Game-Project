@@ -545,12 +545,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6612c89512afcb44a8b25f7d8c24bccb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Start: {fileID: 1269978517}
-  Showcase: {fileID: 1773676253}
-  Settings: {fileID: 1176529599}
-  Source: {fileID: 1480551796}
-  About: {fileID: 50722628}
-  Exit: {fileID: 771646316}
 --- !u!1 &381119920
 GameObject:
   m_ObjectHideFlags: 0
