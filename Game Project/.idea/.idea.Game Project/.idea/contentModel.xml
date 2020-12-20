@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Dominic\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Dominic\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Game Project.-1218838096.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Dominic\Desktop\Modding\Scriptng\Projects\IMM-Game-Project\Game Project" t="IncludeRecursive">
+    <e p="C:\Users\Dominic\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dominic\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Game Project.-1260764436.00" t="ExcludeRecursive" />
+    <e p="E:\College\#Modules\Projects\IMM-Game-Project\Game Project" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="HQ Shooting Range" t="Include">
@@ -12,11 +12,50 @@
           </e>
           <e p="ReadMe.txt" t="Include" />
         </e>
+        <e p="Low Poly FPS Pack - Free (Sample)" t="Include">
+          <e p="Components" t="Include">
+            <e p="Demo_Scene_Components" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="DebrisScript.cs" t="Include" />
+                <e p="ExplosiveBarrelScript.cs" t="Include" />
+                <e p="TargetScript.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Bullet" t="Include">
+                <e p="BulletScript.cs" t="Include" />
+              </e>
+              <e p="Casings_&amp;_Projectiles" t="Include">
+                <e p="CasingScript.cs" t="Include" />
+                <e p="GrenadeScript.cs" t="Include" />
+              </e>
+              <e p="Explosions_&amp;_Impacts" t="Include">
+                <e p="ExplosionScript.cs" t="Include" />
+                <e p="ImpactScript.cs" t="Include" />
+              </e>
+              <e p="FPSController" t="Include">
+                <e p="FpsControllerLPFP.cs" t="Include" />
+              </e>
+              <e p="Misc" t="Include">
+                <e p="LookAtCamera.cs" t="Include" />
+              </e>
+              <e p="Weapon_Scripts" t="Include">
+                <e p="AutomaticGunScriptLPFP.cs" t="Include" />
+                <e p="HandgunScriptLPFP.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
         <e p="Scripts" t="Include">
-          <e p="MenuManager.cs" t="Include" />
-          <e p="MouseMovement.cs" t="Include" />
-          <e p="PlayerMovement.cs" t="Include" />
-          <e p="SettingsMenu.cs" t="Include" />
+          <e p="Menus" t="Include">
+            <e p="MenuManager.cs" t="Include" />
+            <e p="SettingsMenu.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="Footstep.cs" t="Include" />
+            <e p="MouseMovement.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+          </e>
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
